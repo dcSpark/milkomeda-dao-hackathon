@@ -3,12 +3,12 @@ Milkomeda Foundation invites all builders around the world to come together and 
 
 ## General Information
 With Milkomeda, DAOs can be launched using the mature EVM-based ecosystem. 
-We would like to thank [Catalyst Community](https://cardano.ideascale.com/) for supporting our [proposal in Fund 7](https://cardano.ideascale.com/c/idea/383465)and our Media Partners and Judges. 
+We would like to thank [Catalyst Community](https://cardano.ideascale.com/) for supporting our [proposal in Fund 7](https://cardano.ideascale.com/c/idea/383465) and our Media Partners and Judges. 
 
 ## Dates and Timing
 - September 5th - Hackathon launch
 - September 6th - 27th - Hacking
-- September 27st - Deadline for submitting submission required materials
+- September 27st - Deadline for submitting required materials
 - September 30.09-04.10 - Winners announcement
 
 
