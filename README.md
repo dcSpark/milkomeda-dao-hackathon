@@ -8,7 +8,7 @@ We would like to thank [Catalyst Community](https://cardano.ideascale.com/) for 
 ## Dates and Timing
 - September 5th - Hackathon launch
 - September 6th - 27th - Hacking
-- September 27st - Deadline for submitting [required materials](https://www.notion.so/Milkomeda-DAO-Hackathon-7b0cda594a0e404c8d5ed13f87db2ec3)
+- September 27st - Deadline for submitting submission required materials
 - September 30.09-04.10 - Winners announcement
 
 
