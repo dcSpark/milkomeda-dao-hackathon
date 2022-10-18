@@ -22,7 +22,7 @@ The hackathon consists of different team challenges focused on Decentralized Aut
 - Bootstrapping DAOs
 - Other DAO ideas
 
-### Winners Announcement
+# Winners Announcement
 
 ## First Place: [Oracle DAO](https://github.com/hatskier/oracle-dao)
 
