@@ -24,7 +24,7 @@ The hackathon consists of different team challenges focused on Decentralized Aut
 
 ### Winners Announcement
 
-## First Place: [Oracle DAO](https://github.com/monika-zajac-krypto/events-dao-app)
+## First Place: [Oracle DAO](https://github.com/hatskier/oracle-dao)
 
 ### Team Name
 Alex Suvorov
@@ -40,7 +40,7 @@ The project has been built on Milkomeda which is an EVM-compatible Cardano rollu
 https://youtu.be/i5TY-38gIFk
 
 ### Project repository 
-https://github.com/monika-zajac-krypto/events-dao-app
+https://github.com/hatskier/oracle-dao
 
 ### Additional prizes
 - Best Idea
